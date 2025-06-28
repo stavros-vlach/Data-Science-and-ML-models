@@ -4,7 +4,7 @@ samples. The goal of this analysis is to build a Multilayer Neural Network that 
 the number of sunspots several months into the future (multi-step ahead forecast). You are required to
 do the following:
 
-1) Open a Jupyter-notebook load the the sunspots.csv file. Print and observe the structure of the data.
+1) Open a Jupyter-notebook load the sunspots.csv file. Print and observe the structure of the data.
 Extract the appropriate column that is of interest to the analysis.
 
 2) Check the sanity and appropriateness of the data. Search for missing values and print descriptive
