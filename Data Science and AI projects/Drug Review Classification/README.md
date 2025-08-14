@@ -1,7 +1,7 @@
-# Drug Review Classification with BioBERT
+# Drug Review Classification with BioBERT Transformer.
 
 This notebook demonstrates a text classification pipeline using the Drugs.com dataset. The goal is to predict the medical condition associated with a drug based on its name.
-a
+
 The workflow includes:
 
 1. Loading and splitting the dataset into training, validation, and test sets.  
